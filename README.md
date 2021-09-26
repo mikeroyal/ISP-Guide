@@ -22,45 +22,45 @@
 
 # Table of Contents
 
-1. [Image Signal Processing(ISP) Learning Resources](https://github.com/mikeroyal/Apache-Spark-Guide#ISP-learning-resources)
+1. [Image Signal Processing(ISP) Learning Resources](https://github.com/mikeroyal/iSP-Guide#ISP-learning-resources)
 
-2. [Image Signal Processing(ISP) Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Apache-Spark-Guide#ISP-frameworks-libraries-and-tools)
+2. [Image Signal Processing(ISP) Tools, Libraries, and Frameworks](https://github.com/mikeroyal/ISP-Guide#ISP-tools-libraries-and-frameworks)
 
-3. [Digital Signal Processing (DSP) Development](https://github.com/mikeroyal/Apache-Spark-Guide#DSP-Development)
+3. [Digital Signal Processing (DSP) Development](https://github.com/mikeroyal/ISP-Guide#DSP-Development)
 
-4. [Machine Learning](https://github.com/mikeroyal/Apache-Spark-Guide#machine-learning)
+4. [Machine Learning](https://github.com/mikeroyal/ISP-Guide#machine-learning)
 
-5. [Algorithms](https://github.com/mikeroyal/Apache-Spark-Guide#Algorithms)
+5. [Algorithms](https://github.com/mikeroyal/ISP-Guide#Algorithms)
 
-6. [Deep Learning Development](https://github.com/mikeroyal/Apache-Spark-Guide#Deep-Learning-Development)
+6. [Deep Learning Development](https://github.com/mikeroyal/ISP-Guide#Deep-Learning-Development)
 
-7. [Reinforcement Learning Development](https://github.com/mikeroyal/Apache-Spark-Guide#Reinforcement-Learning-Development)
+7. [Reinforcement Learning Development](https://github.com/mikeroyal/ISP-Guide#Reinforcement-Learning-Development)
 
-8. [Computer Vision Development](https://github.com/mikeroyal/Apache-Spark-Guide#computer-vision-development)
+8. [Computer Vision Development](https://github.com/mikeroyal/ISP-Guide#computer-vision-development)
 
-9. [Photogrammetry Development](https://github.com/mikeroyal/DSP-Guide#photogrammetry-development)
+9. [Photogrammetry Development](https://github.com/mikeroyal/ISP-Guide#photogrammetry-development)
 
-10. [LiDAR Development](https://github.com/mikeroyal/DSP-Guide#lidar-development)
+10. [LiDAR Development](https://github.com/mikeroyal/ISP-Guide#lidar-development)
 
-11. [Bioinformatics](https://github.com/mikeroyal/Apache-Spark-Guide#bioinformatics)
+11. [Bioinformatics](https://github.com/mikeroyal/ISP-Guide#bioinformatics)
 
-12. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/AR-VR-Guide#Augmented-Reality-AR--Virtual-Reality-VR)
+12. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/ISP-Guide#Augmented-Reality-AR--Virtual-Reality-VR)
 
-13. [Game Development](https://github.com/mikeroyal/AR-VR-Guide#game-development)
+13. [Game Development](https://github.com/mikeroyal/ISP-Guide#game-development)
 
-14. [CUDA Development](https://github.com/mikeroyal/Apache-Spark-Guide#cuda-development)
+14. [CUDA Development](https://github.com/mikeroyal/ISP-Guide#cuda-development)
 
-15. [MATLAB Development](https://github.com/mikeroyal/Apache-Spark-Guide#matlab-development)
+15. [MATLAB Development](https://github.com/mikeroyal/ISP-Guide#matlab-development)
 
-16. [C/C++ Development](https://github.com/mikeroyal/AR-VR-Guide#cc-development)
+16. [C/C++ Development](https://github.com/mikeroyal/ISP-Guide#cc-development)
 
-17. [Java Development](https://github.com/mikeroyal/Apache-Spark-Guide#java-development)
+17. [Java Development](https://github.com/mikeroyal/ISP-Guide#java-development)
 
-18. [Python Development](https://github.com/mikeroyal/Apache-Spark-Guide#python-development)
+18. [Python Development](https://github.com/mikeroyal/ISP-Guide#python-development)
 
-19. [Scala Development](https://github.com/mikeroyal/Apache-Spark-Guide#scala-development)
+19. [Scala Development](https://github.com/mikeroyal/ISP-Guide#scala-development)
 
-20. [R Development](https://github.com/mikeroyal/Apache-Spark-Guide#r-development)
+20. [R Development](https://github.com/mikeroyal/ISP-Guide#r-development)
 
 
 # Image Signal Processing (ISP)  Learning Resources
