@@ -44,7 +44,7 @@
 
 11. [Bioinformatics](https://github.com/mikeroyal/ISP-Guide#bioinformatics)
 
-12. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/ISP-Guide#augmented-reality-ar--virtual-reality-vr-tools-and-frameworks)
+12. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/ISP-Guide#arvr-development)
 
 13. [Game Development](https://github.com/mikeroyal/ISP-Guide#game-development)
 
@@ -173,6 +173,11 @@
 
 # DSP Development
 [Back to the Top](https://github.com/mikeroyal/ISP-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/130368423-65b10b6e-941e-4427-b10e-4c92e239bd1b.png">
+  <br />
+</p>
 
 ## Digital Signal Processing(DSP) Learning Resources
 
