@@ -63,7 +63,7 @@
 20. [R Development](https://github.com/mikeroyal/ISP-Guide#r-development)
 
 
-# Image Signal Processing (ISP)  Learning Resources
+# ISP Learning Resources
 [Back to the Top](https://github.com/mikeroyal/ISP-Guide#table-of-contents)
 
 [Image Signal Processing (ISP)](https://en.wikipedia.org/wiki/Image_processor) is the processs of converting an image into digital form by performing operations like noise reduction, auto exposure, autofocus, auto white balance, HDR correction, and image sharpening with a Specialized type of media processor.
@@ -92,7 +92,7 @@
 
 [Digital Signal Processing Course | Prosoundtraining](https://www.prosoundtraining.com/digital-signal-processing/)
 
-# Image Signal Processing (ISP) Tools, Libraries, and Frameworks
+# ISP Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/ISP-Guide#table-of-contents)
 
 [CCD(charge coupled device)](https://global.canon/en/technology/s_labo/light/003/04.html) is a semiconductor image sensor used in digital cameras to convert light into electrical signals. CCD Sensors are made up of tiny elements known as pixels with expressions such as 6 MP(megapixel) or 12 MP(megapixel) refering to the number of pixels comprising the CCD Sensors of a camera. With each pixel there is a tiny photodiode that is sensitive to light(photon) and becomes electrically charged in accordance with the strength of light it captures.
