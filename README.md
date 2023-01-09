@@ -131,6 +131,12 @@
 
 [Mixed-Signal Blockset™](https://www.mathworks.com/products/mixed-signal.html) is a tool that provides models of components and impairments, analysis tools, and test benches for designing and verifying mixed-signal integrated circuits (ICs).
 
+[Python Imaging Library (PIL)](https://github.com/python-pillow/Pillow) is a library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities to your Python interpreter.
+
+[scikit-image](https://scikit-image.org/) is a tool for Image processing in Python.
+
+[Imaginary](https://github.com/h2non/imaginary) is a fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing.
+
 [H.264(AVC)](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC) is a video compression standard based on block-oriented and motion-compensated integer-DCT coding that defines multiple profiles (tools) and levels (max bitrates and resolutions) with support up to 8K.
 
 [H.265(HEVC)](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) is a video compression standard that is the successor to H.264(AVC). It offers a 25% to 50% better data compression at the same level of video quality, or improved video quality at the same bit-rate.
