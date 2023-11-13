@@ -74,7 +74,7 @@
 
 [Image Signal Processing (ISP)](https://en.wikipedia.org/wiki/Image_processor) is the processs of converting an image into digital form by performing operations like noise reduction, auto exposure, autofocus, auto white balance, HDR correction, and image sharpening with a Specialized type of media processor.
 
-### Developers Resources
+### Developer Resources
 
  - [Image & signal processing | NIST](https://www.nist.gov/image-signal-processing)
 
