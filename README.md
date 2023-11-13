@@ -74,29 +74,33 @@
 
 [Image Signal Processing (ISP)](https://en.wikipedia.org/wiki/Image_processor) is the processs of converting an image into digital form by performing operations like noise reduction, auto exposure, autofocus, auto white balance, HDR correction, and image sharpening with a Specialized type of media processor.
 
-[Image & signal processing | NIST](https://www.nist.gov/image-signal-processing)
+### Developers Resources
 
-[Image Processing Onramp | MATLAB & Simulink Tutorial](https://in.mathworks.com/learn/tutorials/image-processing-onramp.html)
+ - [Image & signal processing | NIST](https://www.nist.gov/image-signal-processing)
 
-[Apply convolution to image processing | MATLAB & Simulink Tutorial](https://www.mathworks.com/discovery/convolution.html)
+ - [Image Processing Onramp | MATLAB & Simulink Tutorial](https://in.mathworks.com/learn/tutorials/image-processing-onramp.html)
 
-[Signal Processing Onramp | MATLAB & Simulink Tutorial](https://www.mathworks.com/learn/tutorials/signal-processing-onramp.html)
+ - [Apply convolution to image processing | MATLAB & Simulink Tutorial](https://www.mathworks.com/discovery/convolution.html)
 
-[Deep Learning for Signal Processing Applications | MATLAB & Simulink](https://blogs.mathworks.com/deep-learning/2019/05/13/deep-learning-for-signal-processing-applications/)
+ - [Signal Processing Onramp | MATLAB & Simulink Tutorial](https://www.mathworks.com/learn/tutorials/signal-processing-onramp.html)
 
-[Top Signal Processing Courses Online | Coursera](https://www.coursera.org/courses?query=signal%20processing)
+ - [Deep Learning for Signal Processing Applications | MATLAB & Simulink](https://blogs.mathworks.com/deep-learning/2019/05/13/deep-learning-for-signal-processing-applications/)
 
-[Introduction to Data, Signal, and Image Analysis with MATLAB | Coursera](https://www.coursera.org/learn/matlab-image-processing)
+### Courses
 
-[Top Signal Processing Courses Online | Udemy](https://www.udemy.com/courses/search/?src=ukw&q=+image+processing)
+ - [Top Signal Processing Courses Online | Coursera](https://www.coursera.org/courses?query=signal%20processing)
 
-[Learn Image Processing with Online Courses and Lessons | edX](https://www.edx.org/learn/image-processing)
+ - [Introduction to Data, Signal, and Image Analysis with MATLAB | Coursera](https://www.coursera.org/learn/matlab-image-processing)
 
-[Image & Signal Processing Courses: Wolfram U](https://www.wolfram.com/wolfram-u/catalog/image-signal-processing/)
+ - [Top Signal Processing Courses Online | Udemy](https://www.udemy.com/courses/search/?src=ukw&q=+image+processing)
 
-[Biomedical Signal and Image Processing | MIT OpencourseWare](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/)
+ - [Learn Image Processing with Online Courses and Lessons | edX](https://www.edx.org/learn/image-processing)
 
-[Digital Signal Processing Course | Prosoundtraining](https://www.prosoundtraining.com/digital-signal-processing/)
+ - [Image & Signal Processing Courses: Wolfram U](https://www.wolfram.com/wolfram-u/catalog/image-signal-processing/)
+
+ - [Biomedical Signal and Image Processing | MIT OpencourseWare](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/)
+
+ - [Digital Signal Processing Course | Prosoundtraining](https://www.prosoundtraining.com/digital-signal-processing/)
 
 # ISP Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/ISP-Guide#table-of-contents)
